@@ -1,0 +1,39 @@
+﻿# KiCad backup files
+*.bak
+*~
+\#*\#
+_autosave-*
+*.tmp
+
+# KiCad lock files
+*.lck
+
+# KiCad generated files (można zachować jeśli potrzebne)
+*-backups/
+fp-info-cache
+
+# KiCad 6+ local settings
+*.kicad_prl
+
+# Gerber files (opcjonalnie - usuń jeśli chcesz śledzić)
+# Gerbers/
+# *.gbr
+# *.drl
+
+# BOM and position files (opcjonalnie)
+# *.csv
+# *.pos
+
+# 3D cache
+*.3dshapes
+3d-cache/
+
+# Netlists
+*.net
+
+# EESCHEMA files
+rescue-backup/
+
+# PCBNEW generated files
+*.dsn
+*.ses
